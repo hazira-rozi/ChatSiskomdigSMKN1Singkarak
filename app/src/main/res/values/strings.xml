@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Chat Siskomdig SMKN 1 Singkarak</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lipsum">  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus urna diam, malesuada eu quam id, finibus consectetur augue. Donec at risus nunc. Vivamus leo tortor, imperdiet vel facilisis a, tincidunt non libero. Maecenas arcu massa, rutrum varius elementum suscipit, elementum in turpis. Nulla tempus, nibh aliquam luctus efficitur, tortor est dictum magna, sit amet imperdiet lorem leo a arcu. Sed luctus ultricies ligula ut aliquet. Morbi ipsum magna, gravida eget consectetur vitae, molestie nec eros. Suspendisse potenti. Nullam purus nibh, egestas quis enim sed, congue rutrum metus. Sed et magna a sapien cursus semper.
+            \n \n Pellentesque ex magna, fermentum at ligula sed, pulvinar lacinia orci. Quisque sit amet mauris sit amet tellus fringilla luctus nec sit amet sem. Mauris tristique mauris eget nunc dignissim facilisis. Pellentesque maximus leo eu nibh gravida condimentum. Nunc at nisi erat. Integer congue dignissim aliquet. Quisque vulputate efficitur ex ac ultricies. Etiam vel libero turpis. Etiam venenatis metus a justo malesuada, ut feugiat magna pulvinar.
+            \n \n Quisque in fermentum dui, vitae tempus risus. Proin ut blandit lacus, vitae laoreet purus. Aliquam sed metus dapibus, semper dolor vel, dapibus nibh. Nullam ac nisl sit amet nisi faucibus rhoncus. Fusce volutpat euismod magna, in sagittis est. Quisque tincidunt elit quis elit scelerisque venenatis. Vivamus vel dui viverra, pretium mi at, convallis tellus. Sed vestibulum eu velit id egestas. Nulla pellentesque dignissim eros, sed varius eros ultricies a. Vivamus vel lobortis justo, non sagittis odio.
+            \n \n
+
+    </string>
+    <string name="chat_home"> Selamat datang di Chat Mobile Learning Siskomdig SMK N 1 Singkarak
+    </string>
+
+    <string name="chat_home_label"> Chat Mobile Learning
+        \n Siskomdig SMK N 1 Singkarak
+    </string>
+
+    <string name="titleHome">Home</string>
+    <string name="titleAbout">About</string>
+    <string name="titleHelp">Help</string>
+    <string name="titleMore">More</string>
+    <string name="titleMateri1">Materi 1 - Home</string>
+    <string name="titleMateri1Langkah">Materi 1 - Langkah Kerja</string>
+    <string name="titleMateri1Latihan">Materi 1 - Latihan</string>
+    <string name="titleMateri1Evaluas">Materi 1 - Evaluasi</string>
+    <string name="titleMateri2">Materi 1 - Home</string>
+    <string name="titleMateri2Langkah">Materi 2 - Langkah Kerja</string>
+    <string name="titleMateri2Latihan">Materi 2 - Latihan</string>
+    <string name="titleMateri2Evaluas">Materi 2 - Evaluasi</string>
+
+    <string name="error">Terdapat kesalahan pada kode anda!. Mohon periksa kembali kode anda</string>
+    <string name="cout">cout&lt;&lt;&lt; </string>
+</resources>

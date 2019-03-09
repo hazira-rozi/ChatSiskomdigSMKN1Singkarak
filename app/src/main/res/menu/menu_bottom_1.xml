@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_materi_1"
+        android:icon="@drawable/ic_book_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/langkah_1"
+        android:icon="@drawable/ic_listy"
+        android:title="Langkah Kerja" />
+    <item
+        android:id="@+id/latihan_1"
+        android:icon="@drawable/ic_latihan"
+        android:title="Latihan 1" />
+    <item
+        android:id="@+id/evaluasi_1"
+        android:icon="@drawable/ic_school_black_24dp"
+        android:title="Evaluasi" />
+</menu>
