@@ -12,9 +12,9 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
-            android:toolsignore="GoogleAppIndexingWarning">
+            tools:ignore="GoogleAppIndexingWarning">
         <activity
-                android:name="com.hazira.chatsiskomdig.MainActivity"
+                android:name=".MainActivity"
                 android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,21 +22,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-                android:name="com.hazira.chatsiskomdig.M1Activity"
-                android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-                android:name="com.hazira.chatsiskomdig.M2Activity"
-                android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-                android:name="com.hazira.chatsiskomdig.ConsoleActivity"
-                android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-                android:name="com.hazira.chatsiskomdig.CodingActivity"
-                android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name="com.hazira.chatsiskomdig.M1Q1Activity" />
-        <activity android:name="com.hazira.chatsiskomdig.Quiz1Activity"
-                  android:theme="@style/AppTheme.NoActionBar" />
 
         <activity android:name="co.chatsdk.ui.chat.LoginActivity" />
 
